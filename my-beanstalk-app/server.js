@@ -175,7 +175,7 @@ app.get('/', (req, res) => {
 <body>
 
 <nav>
-    <div class="logo">☁️ Pythonlife-Devops-Krishna</div>
+    <div class="logo">☁️ Yaswanth DevOps Project</div>
     <div class="nav-text">
         AWS • Node.js • CI/CD • DevOps
     </div>
@@ -190,7 +190,7 @@ app.get('/', (req, res) => {
         </div>
 
         <h1>
-            Hello from <span>Node.js</span>
+            Hello from <span>Yaswanth's CI/CD Pipeline</span>
         </h1>
 
         <div class="subtitle">
@@ -198,7 +198,7 @@ app.get('/', (req, res) => {
         </div>
 
         <p class="description">
-            Welcome to Pythonlife-DevOps.
+            Welcome to Yaswanth's Automated AWS CI/CD Application
             This application demonstrates a Node.js application
             deployed on AWS Elastic Beanstalk using modern
             CI/CD and DevOps practices.
